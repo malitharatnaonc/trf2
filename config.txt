@@ -1,0 +1,16 @@
+receptor = trf2.pdbqt
+ligand = rtel1.pdbqt
+
+num_modes = 50
+
+out = all.pdbqt
+
+center_x = 3.86
+center_y = 16.27
+center_z = 165.25
+
+size_x = 40
+size_y = 40
+size_z = 70
+
+seed = 2009
